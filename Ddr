@@ -1,0 +1,32 @@
+{
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "symbol": "WIN",
+      "name": "WINkLink",
+      "decimals": 6,
+      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
+      "homepage": "https://winklink.org/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "existingMarkets": [
+          {
+              "source": "Binance",
+              "pairs": [
+                  "WIN/USDT",
+                  "WIN/BUSD",
+                  "WIN/BNB",
+                  "WIN/USDC"
+              ]
+          },
+          {
+              "source": "Poloniex",
+              "pairs": [
+                  "WIN/USDT"
+              ]
+          },
+          {
+              "source": "tronlink",
+              "pairs": [
+                  "WIN/USDT"
+              ]
+          }
+    ]
+}
