@@ -6,7 +6,7 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
       "symbol": "WIN",
       "name": "WINkLink",
       "decimals": 6,
@@ -30,7 +30,7 @@ Follow the steps below to add a new token：
               ]
           },
           {
-              "source": "KuCoin",
+              "source": "tronlink",
               "pairs": [
                   "WIN/USDT"
               ]
@@ -38,9 +38,9 @@ Follow the steps below to add a new token：
     ]
 }
 ```
-* `address`[Required]: your token address.
-* `symbol`[Required]: your token symbol.
-* `name`[Required]: your token name.
+* `address`[TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t]: your token address.
+* `symbol`[win]: your token symbol.
+* `name`[tron]: your token name.
 * `logoURI`[Required]: the logo URI of your token.
 * `homepage`[Required]: the home page of your token.
 * `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
